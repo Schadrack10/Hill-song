@@ -41,12 +41,14 @@ const title = {
 const header = {
     // border:"1px solid red",
     width:"100%",
-    height:"200px",
+    height:"150px",
     display:"flex",
     alignItems:"center",
     padding:"0 100px ",
-    fontSize:"30px",
-    fontWeight:"200"
+    fontSize:"35px",
+    fontWeight:"300",
+    color:"#222",
+    letterSpacing:"2px"
 }
 
 
