@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const container = {
   width: "100%",
-  height: "auto",
+  height: "450px",
   background: "url('bg-img.jpg')",
   backgroundSize: "cover",
 };
